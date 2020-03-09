@@ -1,7 +1,7 @@
 {
-  "name": "ExamplePlugin",
-  "author": "Anuke",
-  "main": "example.ExamplePlugin",
-  "description": "A plugin to demonstrate some basic features.",
-  "version": 1.0
+  "name": "GrayScale",
+  "author": "Recessive",
+  "main": "grayscale.GrayScale",
+  "description": "Removes individuality and makes for a very boring lobby.",
+  "version": 0.0
 }
