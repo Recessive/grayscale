@@ -20,7 +20,7 @@ public class GrayScale extends Plugin {
 
     }
     public void filterColor(Player player){
-        player.name = player.name.replaceAll("\\[(.*?)]","");
+        player.name = Strings.stripColors(player.name);
         player.color = Color.white;
     }
 }
